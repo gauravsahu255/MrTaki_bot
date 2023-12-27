@@ -10,8 +10,8 @@ class Config(object):
     PHOTO_URL = ["https://telegra.ph/file/2767b2d21e0667a81a364.jpg", "https://telegra.ph/file/091c080e387799aad5536.jpg", "https://telegra.ph/file/1926c7c608d2c2b891ff1.jpg"]
     SUPPORT_CHAT = "anime_x_god_group"
     UPDATE_CHAT = "anime_x_god"
-    BOT_USERNAME = "taki_waifus_bot"
-    CHARA_CHANNEL_ID = "-1002017843882"
+    BOT_USERNAME = "MrTaki_bot"
+    CHARA_CHANNEL_ID = "--1002111626476"
     api_id = 25997075
     api_hash = "8f7d4aba2280fa063694064beba34d7d"
 
